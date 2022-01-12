@@ -21,7 +21,7 @@ simular un escenario _"crítico"_ que puedan encontrar en la vida real.
 Debes actuar en este papel de entrevistadorx, haciéndoles estas preguntas/retos
 a lo largo de la dinámica. Al final de la entrevista es necesario que envies _feedback por correo electrónico_ a las estudiantes sobre su desempeño
 y llenar un
-_scorecard_ ([Typeform]())
+_scorecard_ ([Typeform](https://laboratoria.typeform.com/to/Nl6hffqU))
 con la evaluación de la entrevista que solo revisará el equipo de Laboratoria.
  
 Todo el guión de preguntas propuestas que tenemos aquí es sólo una base. Puedes
@@ -36,10 +36,8 @@ Imaginamos que cada entrevista debería durar entre **45~60min**.
  
 ## Recursos
  
-* [Guia de calificación de Score card]()
-* [Score card]()
-* [Template de correo para dar feedback directo a estudiante](https://docs.google.com/document/d/1ibel7ysRmBS81ghs_tAeQnksG2yWbxLW5W72By_rclc/edit?usp=sharing)
-* [Archivo de asignación de mentorxs y mentees]()
+* [Score card](https://laboratoria.typeform.com/to/Nl6hffqU)
+* [Template de correo para dar feedback directo a estudiante](https://docs.google.com/document/d/1fUBxTRdB3ddjKXHXC6bPinYeHTil0b2lHE3UJEaHvrg/edit?usp=sharing)
  
 ## Contacto
  
@@ -157,7 +155,7 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
   que represente un desafío mayor.
  
   Aquí puedes encontrar un
-  [resumen de algunos ejercicios](../exercises/README.md) que puedes usar. Es
+  [resumen de algunos ejercicios](./exercises/README.md) que puedes usar. Es
   importante que, dependiendo de tus primeras impresiones, intentes elegir
   ejercicios relevantes para el perfil, por lo cual te recomendamos
   familiarizarte con ellos antes de la entrevista.
