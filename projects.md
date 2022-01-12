@@ -100,5 +100,3 @@ establecidas.
 - Ganar experiencia con algun framework o libreria de desarrollo web
   en JS: React o Angular o Vue
 
-# Proyectos Extensión FullStack
-
