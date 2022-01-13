@@ -57,7 +57,7 @@ por los siguientes temas:
 - JavaScript y asíncronía
 - Node.js
 - Pruebas unitarias
-- React / Angular
+- React
  
 Ahora bien, en nuestro modelo optamos por que el aprendizaje sea _self-paced._
 Eso quiere decir que intentamos que cada una de las estudiantes
@@ -233,7 +233,7 @@ de proporcionar **información concreta** y, si es posible, **enlaces, recursos
 y/o contenidos** si crees que vale la pena que el estudiante se enfoque en los
 puntos que podría mejorar.
  
-2)**Feedback hacia el equipo**, el que realizarás a través de un _score card_ ([Typeform]() que te pedirá evaluar su desempeño en los distintos aspectos que integran la simulación y dejarnos recomendaciones para el equipo.
+2)**Feedback hacia el equipo**, el que realizarás a través de un _score card_ ([Typeform](https://laboratoria.typeform.com/to/Nl6hffqU)) que te pedirá evaluar su desempeño en los distintos aspectos que integran la simulación y dejarnos recomendaciones para el equipo.
  
 ## Fin
  
